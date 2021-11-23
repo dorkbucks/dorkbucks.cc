@@ -9,6 +9,7 @@ ACCOUNTS=[
 [DOCUMENTATION]
 ORG_NAME="DorkBucks"
 ORG_URL="https://dorkbucks.cc"
+ORG_LOGO="https://dorkbucks.cc/.well-known/logo-128x128.png"
 ORG_DESCRIPTION="If it looks like a dork, walks like a dork, and quacks like a dork, it is a dork"
 ORG_GITHUB="dorkbucks"
 ORG_TWITTER="dorkbucks"
@@ -23,3 +24,4 @@ code="DORK"
 issuer="GDIQVCDRIJU6DWH4KJCU4UEXY3RICOYKPGBHU3HQYKAULNCYNVTQUACK"
 name="DorkBucks"
 desc="If it looks like a dork, walks like a dork, and quacks like a dork, it is a dork"
+image="https://dorkbucks.cc/.well-known/logo-128x128.png"
