@@ -13,9 +13,11 @@ ORG_LOGO="https://dorkbucks.cc/.well-known/logo-128x128.png"
 ORG_DESCRIPTION="If it looks like a dork, walks like a dork, and quacks like a dork, it is a dork"
 ORG_GITHUB="dorkbucks"
 ORG_TWITTER="dorkbucks"
+ORG_OFFICIAL_EMAIL="quack@dorkbucks.cc"
 
 [[PRINCIPALS]]
 name="Rubber T. Dork"
+email="hi@rubberdork.com"
 github="itsrubberdork"
 twitter="rubberdork"
 
