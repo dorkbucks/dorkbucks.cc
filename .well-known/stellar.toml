@@ -13,6 +13,11 @@ ORG_DESCRIPTION="If it looks like a dork, walks like a dork, and quacks like a d
 ORG_GITHUB="dorkbucks"
 ORG_TWITTER="dorkbucks"
 
+[[PRINCIPALS]]
+name="Rubber T. Dork"
+github="itsrubberdork"
+twitter="rubberdork"
+
 [[CURRENCIES]]
 code="DORK"
 issuer="GDIQVCDRIJU6DWH4KJCU4UEXY3RICOYKPGBHU3HQYKAULNCYNVTQUACK"
